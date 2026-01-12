@@ -78,6 +78,6 @@ Strategic business planning
 6️⃣ Screenshot / Demo
 Show what dashboard look like
 Home Page: https://github.com/samarsinha2000-hub/Amazon-Sales-Analysis-Dashboard-/blob/main/Amazon%20Overview%20Page%201.png
-Overview Page 1:
+Overview Page 1: https://github.com/samarsinha2000-hub/Amazon-Sales-Analysis-Dashboard-/blob/main/Amazon%20Overview%20Page%201.png
 Overview Page 2:
 
